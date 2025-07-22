@@ -1,0 +1,36 @@
+Folder PATH listing
+Volume serial number is 62A0-176E
+C:.
+¦   .dockerignore
+¦   .gitignore
+¦   docker-compose.yml
+¦   Dockerfile
+¦   README.md
+¦   requirements.dev.txt
+¦   requirements.txt
+¦   structure.txt
+¦   
++---.idea
+¦   ¦   .gitignore
+¦   ¦   misc.xml
+¦   ¦   modules.xml
+¦   ¦   recipe-app-api.iml
+¦   ¦   vcs.xml
+¦   ¦   workspace.xml
+¦   ¦   
+¦   +---inspectionProfiles
+¦           profiles_settings.xml
+¦           
++---app
+    ¦   .flake8
+    ¦   
+    +---app
+        ¦   manage.py
+        ¦   
+        +---app
+                asgi.py
+                settings.py
+                urls.py
+                wsgi.py
+                __init__.py
+                
